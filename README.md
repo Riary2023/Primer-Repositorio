@@ -1,2 +1,2 @@
-# Primer-Repositorio
-Este es un repositorio del modulo2 del prepcourse de Henry
+Alejandro Ramirez 
+Este es un proyecto de prueba de como clonar un repositorio desde git hub a mi pc
